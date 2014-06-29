@@ -1,6 +1,9 @@
 #Object Files
 *.o
 
+#Outuput Files
+*.out
+
 #Temporary Files
 
 *~
